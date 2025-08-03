@@ -30,7 +30,7 @@ This website includes the following sections:
 ---
 
 ## 🔗 Live Preview
-[https://collins-mic.github.io/August2025-hackathon1.submission/](#) <!-- Replace with your GitHub Pages or Netlify link -->
+[https://collins-mic.github.io/August2025-hackathon1.submission/](#) 
 
 ---
 
